@@ -1,4 +1,4 @@
-<!-- https://github.com/leedonglee/MoneyRush -->
+<!-- https://github.com/a11z11/moneyrush-unity -->
 
 ## About
 
