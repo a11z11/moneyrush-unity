@@ -1,4 +1,4 @@
-<!-- https://github.com/e808b/moneyrush-unity -->
+<!-- https://github.com/e808b/unity-money-rush -->
 
 ## About
 
